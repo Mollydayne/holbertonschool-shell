@@ -1,2 +1,3 @@
 #!/bin/bash
-cmod --x--xr--
+cmod -rwxr-xr--
+
