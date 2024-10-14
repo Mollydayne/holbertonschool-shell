@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod -rwxr-xr--
+cmod -rwxr-xr-- hello
