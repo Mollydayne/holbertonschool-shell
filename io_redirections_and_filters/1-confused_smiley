@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "U+00D4 U+006F"
+cat "U+00D4 U+006F"
