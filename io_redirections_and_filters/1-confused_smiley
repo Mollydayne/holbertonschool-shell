@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "U+00D4 U+006F"
+cat "\"(Ôo)'"
