@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(whoami)" == 'root' ] && printf 'hello user'
+if [ "$(whoami)" == 'root' ]; then printf 'hello user'; fi
