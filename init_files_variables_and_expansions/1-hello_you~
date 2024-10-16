@@ -1,0 +1,3 @@
+#!/bin/bash
+if [$(whoami) = 'root']; then
+printf 'hello user'
